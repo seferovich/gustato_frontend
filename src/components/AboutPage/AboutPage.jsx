@@ -9,7 +9,7 @@ import AboutComponent from "./AboutComponent"
 
 const AboutPage = () => {
     return(
-        <div className="flex flex-col justify-center items-center relative mt-8">
+        <div className="flex flex-col justify-center items-center relative mt-8 bg-yellow">
              
             <AboutComponent img={abt1} title={"About Us"} description={"Welcome to Gustato, where every bite is crafted with passion and flavor. At Gustato, we believe that a burger is more than just food—it's an experience. That’s why we’re dedicated to using the freshest ingredients, innovative recipes, and authentic techniques to create burgers that leave a lasting impression."}/>
             <AboutComponent flip img={abt2} title={"Our Story"} description={"Gustato was born out of a love for bold, unforgettable flavors. What started as a small dream has grown into a full-fledged culinary adventure, thanks to our founder’s dedication to quality and creativity. We wanted to create a place where people can gather, share great food, and create lasting memories."}/>   

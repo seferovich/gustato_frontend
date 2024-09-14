@@ -5,7 +5,7 @@ import twitterLogo from "../imgs/svgs/twitter.svg"
 const Footer = () => {
     
     return(
-        <div className="mt-32 bg-black w-full flex flex-col items-center justify-center">
+        <div className=" bg-black w-full flex flex-col items-center justify-center">
             <div className="flex items-center  bg-black h-[6rem] md:h-[12rem]  w-full justify-start justify-items-center ">
 
                 <div className="flex md:ml-10 ml-4 mt-16">

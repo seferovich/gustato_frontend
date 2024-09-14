@@ -35,7 +35,7 @@ function App() {
   return (
     <div>
       <ScrollToTop />
-      <div className="w-full h-full overflow-x-hidden  flex flex-col">
+      <div className="w-full h-full overflow-x-hidden flex flex-col">
         <Navbar />
         
         <Routes>
